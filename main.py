@@ -29,4 +29,6 @@ for dot_count in range(1, number_of_dots):
         tim.forward(500)
         tim.setheading(0)
 
+print("This is a turtle project")
+print("Thank You")
 
